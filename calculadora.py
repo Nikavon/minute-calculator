@@ -2,8 +2,8 @@
 calculadora de minutos
 '''
 
-import curses
-stdscr = curses.initscr()
+'''import curses
+stdscr = curses.initscr()'''
 
 total = 0
 contador = 0
